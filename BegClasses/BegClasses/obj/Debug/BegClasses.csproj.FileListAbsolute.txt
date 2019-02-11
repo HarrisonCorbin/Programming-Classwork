@@ -1,0 +1,6 @@
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\bin\Debug\BegClasses.exe.config
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\bin\Debug\BegClasses.exe
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\bin\Debug\BegClasses.pdb
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\obj\Debug\BegClasses.csprojResolveAssemblyReference.cache
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\obj\Debug\BegClasses.exe
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\obj\Debug\BegClasses.pdb

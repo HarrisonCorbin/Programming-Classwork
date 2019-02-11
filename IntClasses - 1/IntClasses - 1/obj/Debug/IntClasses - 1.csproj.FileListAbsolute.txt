@@ -1,0 +1,6 @@
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\IntClasses - 1\IntClasses - 1\bin\Debug\IntClasses - 1.exe.config
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\IntClasses - 1\IntClasses - 1\bin\Debug\IntClasses - 1.exe
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\IntClasses - 1\IntClasses - 1\bin\Debug\IntClasses - 1.pdb
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\IntClasses - 1\IntClasses - 1\obj\Debug\IntClasses - 1.csprojResolveAssemblyReference.cache
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\IntClasses - 1\IntClasses - 1\obj\Debug\IntClasses - 1.exe
+C:\Users\hc3100\Documents\Visual Studio 2017\Projects\IntClasses - 1\IntClasses - 1\obj\Debug\IntClasses - 1.pdb
