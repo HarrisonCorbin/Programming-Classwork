@@ -25,5 +25,9 @@ namespace AdvArrayList1
             Console.WriteLine("Input Student's last name");
             phoneNumber = Convert.ToInt32(Console.ReadLine());
         }
-    }
+
+        public void fileAssignmentToStudent(String username, String assignmentName, int pointsPossible)
+        {
+            Assignments.addAssignmentToStudent("username" , "name", 0);
+        }
 }

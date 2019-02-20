@@ -11,33 +11,43 @@ namespace AdvArrayList1
         int pointsPossible;
         int pointsReceived;
         int scorePercent;
+        int averageTotal;
         String assignmentName;
+        String username;
 
         //boolean addAssignmentToStudent(String username, String assignmentName, int pointsPossible)
         public void addAssignmentToStudent(String username, String assignmentName, int pointsPossible)
         {
+            //Inputs Assignment into a list of assignments used to calculate the score
+            Assignments studentAssignment = new Assignments();
+
+
             Console.WriteLine("Input name of the assignment:");
             assignmentName = Console.ReadLine();
             Console.WriteLine("Input Assignment Score:");
             pointsReceived = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Input Possible amount of points:");
+            pointsPossible = Convert.ToInt32(Console.ReadLine());
 
-            //Inputs Assignment into a list of assignments used to calculate the score
-
+            
         }
+
         //boolean addAssignmentToSection(String assignmentName, int pointsPossible)
         public void addAssignmentToSection(String assignmentName, int pointsPossible)
         {
+            //Creates a new Assignment for the Section class
+            Assignments sectionAssignment = new Assignments();
+
             Console.WriteLine("Input name of the assignment:");
             assignmentName = Console.ReadLine();
             Console.WriteLine("Input Assignment Score:");
             pointsReceived = Convert.ToInt32(Console.ReadLine());
 
-            //Inputs Assignment into the Section Class
-
         }
+
         //double getAssignmentScorePercent(String username, String assignmentName) //returns score as a percentage for student in current section
         public double getAssignmentScorePercent(String username, String assignmentName)
-        {
+        {        
             scorePercent = pointsReceived / pointsPossible;
             return scorePercent;
         }

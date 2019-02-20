@@ -8,22 +8,11 @@ namespace AdvArrayList1
 {
     class Gradebook
     {
-        //properties
-        //list/array of sections
-   
 
-        //String username;
-        //changeSection(string sectionName); sets the currently active section
-        public void changeSection (String sectionName)
-        {
+        String username;
+        String sectionName;
 
-        }
-
-        //boolean addSection(String sectionName)//creates a new section if there are not already 6 sections and sectionName isnt already used
-        public void addSection(String sectionName)
-        {
-            
-        }
+      
 
         //boolean markTardy(String username) //adds 1 to the students tardy count
         public void markTardy(String username)
